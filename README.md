@@ -12,6 +12,8 @@
 
 *MENTOR* : NEELA SANTOSH
 
+# Project 4: Optimizing Product Mix Using Linear Programming
+
 This project, titled "Product Mix Optimization Using Linear Programming," was undertaken as part of the CodTech Data Science Internship Task 4. The goal was to solve a real-world business problem using mathematical optimization techniques with Python, specifically utilizing the PuLP library. The project models a scenario where a company must decide how many units of various products to produce to maximize profit, while staying within resource limitations. It demonstrates how data-driven decision-making can significantly improve operational efficiency and profitability.
 
 The business problem involves a manufacturing company producing four products: A, B, C, and D. Each product has different profit margins and requires different amounts of labor hours and raw materials. However, the company has limited resources—150 labor hours and 140 kilograms of raw material. The objective is to determine the optimal number of units of each product to produce to maximize total profit, without exceeding these constraints. This scenario is modeled as a Linear Programming (LP) problem, which is ideal for situations involving continuous variables, a linear objective function, and linear constraints.
