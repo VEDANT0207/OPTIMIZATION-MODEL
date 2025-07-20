@@ -28,3 +28,4 @@ This project is useful in any industry where production, resource allocation, an
 
 In conclusion, this project not only fulfills the internship requirement to demonstrate problem-solving using optimization and PuLP, but it also goes beyond by adding real-world flexibility, visual storytelling, and business-oriented insights. It’s a strong example of how data science tools can be practically applied to drive smarter decisions and measurable impact.
 
+<img width="1137" height="577" alt="Image" src="https://github.com/user-attachments/assets/29a66ef5-6865-4039-8b9e-9a842654769c" />
